@@ -1,1 +1,1 @@
-app: bin/hubot -a irc -n greenvillebot --alias '/'
+app: bin/hubot -a irc -n greenvillebot --alias '!'
