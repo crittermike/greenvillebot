@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n greenvillebot
+app: bin/hubot -a irc -n greenvillebot --alias '/'
