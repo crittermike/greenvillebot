@@ -1,1 +1,10 @@
-["web.coffee", "redis-brain.coffee", "factoid.coffee", "karma.coffee", "tell.coffee", "meme_captain.coffee", "weather.coffee", "stocks.coffee"]
+[
+  "web.coffee",
+  "redis-brain.coffee",
+  "factoid.coffee",
+  "karma.coffee",
+  "tell.coffee",
+  "meme_captain.coffee",
+  "weather.coffee",
+  "stocks.coffee"
+]
