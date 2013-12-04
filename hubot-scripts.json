@@ -6,5 +6,6 @@
   "tell.coffee",
   "meme_captain.coffee",
   "weather.coffee",
-  "stocks.coffee"
+  "stocks.coffee",
+  "botsnack.coffee"
 ]
