@@ -7,5 +7,10 @@
   "meme_captain.coffee",
   "weather.coffee",
   "stocks.coffee",
-  "botsnack.coffee"
+  "botsnack.coffee",
+  "abstract.coffee",
+  "ambush.coffee",
+  "google.coffee",
+  "twss.coffee",
+  "tweet-content.coffee"
 ]
