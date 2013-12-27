@@ -25,7 +25,8 @@
     "hubot-irc": "~0.1.20",
     "jsdom": "~0.8.8",
     "htmlparser": "~1.7.6",
-    "soupselect": "~0.2.0"
+    "soupselect": "~0.2.0",
+    "ntwitter": "~0.5.0"
   },
   "engines": {
     "node": ">= 0.8.x",
