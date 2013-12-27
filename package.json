@@ -26,7 +26,8 @@
     "jsdom": "~0.8.8",
     "htmlparser": "~1.7.6",
     "soupselect": "~0.2.0",
-    "ntwitter": "~0.5.0"
+    "ntwitter": "~0.5.0",
+    "underscore": "~1.5.2"
   },
   "engines": {
     "node": ">= 0.8.x",
