@@ -1,16 +1,16 @@
 [
-  "web.coffee",
-  "redis-brain.coffee",
-  "factoid.coffee",
-  "karma.coffee",
-  "tell.coffee",
-  "meme_captain.coffee",
-  "weather.coffee",
-  "stocks.coffee",
-  "botsnack.coffee",
   "abstract.coffee",
   "ambush.coffee",
+  "botsnack.coffee",
+  "factoid.coffee",
   "google.coffee",
+  "karma.coffee",
+  "meme_captain.coffee",
+  "redis-brain.coffee",
+  "stocks.coffee",
+  "tell.coffee",
+  "tweet-content.coffee",
   "twss.coffee",
-  "tweet-content.coffee"
+  "weather.coffee",
+  "web.coffee"
 ]
