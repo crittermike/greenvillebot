@@ -2,6 +2,7 @@
   "abstract.coffee",
   "ambush.coffee",
   "botsnack.coffee",
+  "eight-ball.coffee",
   "factoid.coffee",
   "google.coffee",
   "karma.coffee",
