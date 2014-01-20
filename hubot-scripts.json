@@ -11,6 +11,7 @@
   "redis-brain.coffee",
   "stocks.coffee",
   "tell.coffee",
+  "tryerlang.coffee",
   "tweet-content.coffee",
   "twss.coffee",
   "weather.coffee",
