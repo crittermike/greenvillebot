@@ -6,7 +6,6 @@
   "eight-ball.coffee",
   "factoid.coffee",
   "google.coffee",
-  "hubot-plusplus",
   "meme_captain.coffee",
   "redis-brain.coffee",
   "tell.coffee",
