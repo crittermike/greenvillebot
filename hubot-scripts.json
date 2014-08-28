@@ -9,7 +9,6 @@
   "hubot-plusplus",
   "meme_captain.coffee",
   "redis-brain.coffee",
-  "stocks.coffee",
   "tell.coffee",
   "tryerlang.coffee",
   "tweet-content.coffee",
