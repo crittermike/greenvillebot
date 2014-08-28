@@ -6,7 +6,7 @@
   "eight-ball.coffee",
   "factoid.coffee",
   "google.coffee",
-  "karma.coffee",
+  "hubot-plusplus",
   "meme_captain.coffee",
   "redis-brain.coffee",
   "stocks.coffee",
