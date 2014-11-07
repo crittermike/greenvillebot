@@ -10,4 +10,5 @@ module.exports = (robot) ->
 
   robot.respond /slap\s(.+)/i, (msg) ->
     target = msg.match[1].replace(/\s+$/g, "")
-    msg.send "Hubot slaps #{target} around a bit with a large trout"
+    user = msg.message.user.name
+    msg.send "#{user} slaps #{target} around a bit with a large trout"
